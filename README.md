@@ -36,24 +36,6 @@
 > ***您使用或者复制了本仓库且本人制作的任何脚本，则视为`已接受`此声明，请仔细阅读***
 
 
-### 为防止账号再次遭到封禁失联,可以加入QQ交流群
-### 1群 681030097
-![image](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-4a406456-63ac-413b-b1f6-27a6eed5945e/baf96b0a-3764-4d81-b47f-bdcc3c553c96.png)
-### 2群 681030097
-![image](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-4a406456-63ac-413b-b1f6-27a6eed5945e/98838c66-1a67-4c86-b52b-702742d7412a.png)
-
-## 维护收集不易，大部分内容皆来自群友们和管理们的贡献，为了可持续发展，有能力的给一点支撑
-
-![image](https://vkceyugu.cdn.bspapp.com/VKCEYUGU-4a406456-63ac-413b-b1f6-27a6eed5945e/470b3993-dd1c-4050-a9bf-8b311264780a.png)
-
-
-## 超低价阿里云服务器
-#### [https://www.aliyun.com/activity/ambassador/share-gift/goods?taskCode=xfyh2107&recordId=764770&userCode=31csnowy](https://www.aliyun.com/activity/ambassador/share-gift/goods?taskCode=xfyh2107&recordId=764770&userCode=31csnowy)
-
-## 腾讯云服务器
-#### [http://url.cn/5Z0ZWGI](http://url.cn/5Z0ZWGI)
-#### [备用购买地址](https://cloud.tencent.com/act/pro/starlake?fromSource=gwzcw.3788702.3788702.3788702&utm_medium=cpc&utm_id=gwzcw.3788702.3788702.3788702&cps_key=13c854d3ec192824956cc079f600753f)
-
 # 拉取仓库
 ##### 名称
 
